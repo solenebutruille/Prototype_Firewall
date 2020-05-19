@@ -1,4 +1,6 @@
-Output obtain with r0 anf pf_0 files.
+EXAMPLE OF OUTPUT (obtain with r0 anf pf_0 files):
+
+
 A total of 300 rules were read; 300 valid rules are stored.
 
 Packet number 1 matches 0 rule(s): []
