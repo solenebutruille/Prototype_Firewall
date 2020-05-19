@@ -1,5 +1,0 @@
-I found this project very interessting.
-However, I would suggest to have more set of data with the "correction" output in order to check
-on large set of data if the code is giving the good output as we can't really do it for more than
-10 rules.
-I would also suggest to have in the generated rules all possiblites of prefix length. 
